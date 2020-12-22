@@ -1,5 +1,7 @@
 # UFO Lander
 
-By Troy and Halle
+By Troy Womack-Henderson and Halle Powell
 
-Here is a UFO lander simulation!
+This is a UFO lander simulation!
+
+View here: https://skitter-materialistic-rugby.glitch.me
